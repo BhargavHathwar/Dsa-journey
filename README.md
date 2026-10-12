@@ -7,6 +7,7 @@ My Java DSA preparation journey for software engineering placements
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/BhargavHathwar/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/BhargavHathwar/Dsa-journey/tree/master/1920-build-array-from-permutation) |
@@ -26,5 +27,10 @@ My Java DSA preparation journey for software engineering placements
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/BhargavHathwar/Dsa-journey/tree/master/1920-build-array-from-permutation) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
