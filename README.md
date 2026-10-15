@@ -8,6 +8,7 @@ My Java DSA preparation journey for software engineering placements
 | ------- |
 | [0001-two-sum](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0054-spiral-matrix) |
+| [0136-single-number](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0217-contains-duplicate) |
 | [0867-transpose-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/BhargavHathwar/Dsa-journey/tree/master/1480-running-sum-of-1d-array) |
@@ -36,4 +37,8 @@ My Java DSA preparation journey for software engineering placements
 | ------- |
 | [0054-spiral-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BhargavHathwar/Dsa-journey/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
